@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "life-client",
   "version": "1.0.0",
   "description": "A minimal Electron application",
-  "main": "main.js",
+  "main": "./js/main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Nukecraft5419/LifeClient",
   "keywords": [
     "Electron",
     "quick",
@@ -14,9 +14,12 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Nukecraft5419",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^20.1.4"
+  },
+  "dependencies": {
+    "sass": "^1.55.0"
   }
 }
