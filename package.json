@@ -17,9 +17,13 @@
   "author": "Nukecraft5419",
   "license": "MIT",
   "devDependencies": {
+<<<<<<< HEAD
     "electron": "^20.1.4"
   },
   "dependencies": {
     "sass": "^1.55.0"
+=======
+    "electron": "^21.1.0"
+>>>>>>> 284962f9b076385b0525714cd597d9bc3b20cd17
   }
 }
