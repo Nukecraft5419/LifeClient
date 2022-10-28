@@ -1,8 +1,8 @@
 {
   "name": "life-client",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A minimal Electron application",
-  "main": "./js/main.js",
+  "main": "./src/main/dev/nukecraft5419/lifeclient/js/main.js",
   "scripts": {
     "start": "electron ."
   },
