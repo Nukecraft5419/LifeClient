@@ -10,12 +10,12 @@ function createWindow() {
     resizable: false,
     autoHideMenuBar: true,
     webPreferences: {
-      preload: path.join(__dirname, "./preload.js"),
+      preload: path.join(__dirname, "./src/main/dev/nukecraft5419/lifeclient/js/preload.js"),
     },
   });
 
   // and load the index.html of the app.
-  mainWindow.loadFile("../index.html");
+  mainWindow.loadFile("./src/main/dev/nukecraft5419/lifeclient/index.html");
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
