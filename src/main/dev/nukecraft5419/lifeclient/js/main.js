@@ -11,12 +11,12 @@ function createWindow() {
     autoHideMenuBar: true,
     icon: path.join(__dirname, "../icons/icon32x32.png"),
     webPreferences: {
-      preload: path.join(__dirname, "./src/main/dev/nukecraft5419/lifeclient/js/preload.js"),
+      preload: path.join(__dirname, "./preload.js"),
     },
   });
 
   // and load the index.html of the app.
-  mainWindow.loadFile("./src/main/dev/nukecraft5419/lifeclient/index.html");
+  mainWindow.loadFile(path.join(__dirname, "../index.html"));
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
