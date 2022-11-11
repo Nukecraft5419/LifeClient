@@ -1,14 +1,17 @@
 // savePath: ../css
 
 @import "variables";
+@import "base";
 
 body {
   background-color: $primary-color;
   font: 100% $font-stack;
 }
 
-#logo img {
+#logo {
   text-align: center;
-  width: 256px;
-  height: 256px;
+  img {
+    width: 256px;
+    height: 256px;
+  }
 }
