@@ -1,8 +1,13 @@
-// compile
+// savePath: ../css
 
 @import "variables";
 
 body {
   background-color: $primary-color;
   font: 100% $font-stack;
+}
+
+img:logo {
+  src: $logo-path;
+  align-content: center;
 }
