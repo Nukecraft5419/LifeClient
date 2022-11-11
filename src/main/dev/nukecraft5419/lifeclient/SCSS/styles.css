@@ -1,10 +1,10 @@
-@charset "UTF-8";
 body {
   background-color: #212529;
   font: 100% Helvetica, sans-serif;
 }
 
-img:logo {
-  src: "srcmainÞvnukecraft5419lifeclienticonsicon-logo.png";
-  align-content: center;
+#logo img {
+  text-align: center;
+  width: 256px;
+  height: 256px;
 }/*# sourceMappingURL=styles.css.map */
