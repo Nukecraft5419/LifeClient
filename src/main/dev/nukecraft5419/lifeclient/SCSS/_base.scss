@@ -1,3 +1,22 @@
-#text-1 {
-  visibility: hidden;
+body {
+  overflow: hidden; /* Make the HTML body be non-scrollable */
+  background-color: $primary-color;
+  font: 100% $font-stack;
+}
+
+#logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green;
+  img {
+    width: 256px;
+    height: 256px;
+  }
+}
+
+.main-content {
+  height: calc(100vh - 40px); /* Force the content to take up the viewport height minus the titlebar height */
+  overflow: auto; /* Allow the main content to be scrollable */
 }
