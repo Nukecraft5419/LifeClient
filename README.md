@@ -1,1 +1,27 @@
-MidnightControls on [Modrinth] [!https://modrinth.com/mod/midnightcontrols]
+
+
+
+- [Cosmetica](https://modrinth.com/mod/cosmetica) by [eyezahhhh](https://modrinth.com/user/eyezahhhh)
+- [Sodium](https://modrinth.com/mod/sodium) by [jellysquid3](https://modrinth.com/user/jellysquid3)
+- [Lithium](https://modrinth.com/mod/lithium) by [jellysquid3](https://modrinth.com/user/jellysquid3)
+- [Iris Shaders](https://modrinth.com/mod/iris) by [coderbot](https://modrinth.com/user/coderbot)
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
+- []() by []()
