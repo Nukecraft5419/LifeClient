@@ -30,3 +30,6 @@ Life Client and based on [Quilt Loader](https://quiltmc.org/) and [Quilted Fabri
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) by [Motschen](https://modrinth.com/user/Motschen) and [LambdAurora](https://modrinth.com/user/LambdAurora)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by [LambdAurora](https://modrinth.com/user/LambdAurora)
 - [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) by [LambdAurora](https://modrinth.com/user/LambdAurora)
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) by [Traben](https://modrinth.com/user/Traben)
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) by [FoundationGames](https://modrinth.com/user/FoundationGames)
+- [Custom Entity Models](https://modrinth.com/mod/cem) by [dorianpb](https://modrinth.com/user/dorianpb)
