@@ -1,6 +1,6 @@
 # Life Client
 
-Life Client and based on [Quilt Loader](https://quiltmc.org/) and [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl)
+Life Client is based on [Fabric Loader](https://fabricmc.net/) and uses the [Fabric API](https://modrinth.com/mod/fabric-api) for all mods
 
 <h2>List of all mods in the modpack</h2>
 
@@ -16,7 +16,6 @@ Life Client and based on [Quilt Loader](https://quiltmc.org/) and [Quilted Fabri
 - [CraftPresence](https://modrinth.com/mod/craftpresence) by [CDAGaming](https://modrinth.com/user/CDAGaming)
 - [BetterF3](https://modrinth.com/mod/betterf3) by [treyruffy](https://modrinth.com/user/treyruffy) and [cominixo](https://modrinth.com/user/cominixo)
 - [Visuality](https://modrinth.com/mod/visuality) by [PinkGoosik](https://modrinth.com/user/PinkGoosik)
-- [Eating Animation](https://modrinth.com/mod/eating-animation) by [theoness1](https://modrinth.com/user/theoness1) and [PinkGoosik](https://modrinth.com/user/PinkGoosik)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by [FlashyReese](https://modrinth.com/user/FlashyReese)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by [FlashyReese](https://modrinth.com/user/FlashyReese)
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by [tr7zw](https://modrinth.com/user/tr7zw)
