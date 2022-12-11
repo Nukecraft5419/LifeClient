@@ -9,7 +9,6 @@ function createWindow() {
     height: 1080,
     resizable: false,
     autoHideMenuBar: true,
-    frame: false,
     icon: path.join(__dirname, "../icons/icon32x32.png"),
     titlebarStyle: "hidden",
     webPreferences: {

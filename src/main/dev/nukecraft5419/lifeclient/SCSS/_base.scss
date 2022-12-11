@@ -4,39 +4,15 @@ body {
   font: 100% $font-stack;
 }
 
-.btn-minimize {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  width: 28px;
-  height: 28px;
-}
-
-.btn-maximize {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  width: 28px;
-  height: 28px;
-}
-
-.btn-close {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-  width: 28px;
-  height: 28px;
-}
-
 #logo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
-  border: 3px solid green;
-}
-
-.main-content {
-  height: calc(100vh - 40px); /* Force the content to take up the viewport height minus the titlebar height */
-  overflow: auto; /* Allow the main content to be scrollable */
+  width: auto;
+  height: auto;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  .logo-icon {
+    width: 967px;
+    height: 238.4px;
+  }
 }
