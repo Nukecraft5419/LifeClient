@@ -23,7 +23,6 @@ Life Client is based on [Fabric Loader](https://fabricmc.net/) and uses the [Fab
 - [EntityCulling](https://modrinth.com/mod/entityculling) by [tr7zw](https://modrinth.com/user/tr7zw)
 - [Cursor Mod](https://modrinth.com/mod/cursormod) by [ate48](https://modrinth.com/user/ate48)
 - [Blur](https://modrinth.com/mod/blur-fabric) by [Motschen](https://modrinth.com/user/Motschen)
-- [Time Changer](https://modrinth.com/mod/time-changer) by [Motschen](https://modrinth.com/user/Motschen)
 - [Puzzle](https://modrinth.com/mod/puzzle) by [Motschen](https://modrinth.com/user/Motschen)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) by [Motschen](https://modrinth.com/user/Motschen)
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) by [Motschen](https://modrinth.com/user/Motschen) and [LambdAurora](https://modrinth.com/user/LambdAurora)
@@ -32,3 +31,13 @@ Life Client is based on [Fabric Loader](https://fabricmc.net/) and uses the [Fab
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) by [Traben](https://modrinth.com/user/Traben)
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) by [FoundationGames](https://modrinth.com/user/FoundationGames)
 - [Custom Entity Models](https://modrinth.com/mod/cem) by [dorianpb](https://modrinth.com/user/dorianpb)
+- [FancyMenu](https://modrinth.com/mod/fancymenu) by [keksuccino](https://modrinth.com/user/keksuccino)
+- [Drippy Loading Screen](https://modrinth.com/mod/drippy-loading-screen) by [keksuccino](https://modrinth.com/user/keksuccino)
+- [Konkrete](https://modrinth.com/mod/konkrete) by [keksuccino](https://modrinth.com/user/keksuccino)
+- [Audio Extension for FancyMenu](https://modrinth.com/mod/audio-extension-for-fancymenu) by [keksuccino](https://modrinth.com/user/keksuccino)
+- [Auudio](https://modrinth.com/mod/auudio) by [keksuccino](https://modrinth.com/user/keksuccino)
+- [Load My Resources](https://modrinth.com/mod/load-my-resources) by [keksuccino](https://modrinth.com/user/keksuccino)
+
+
+# Compatibility
+
