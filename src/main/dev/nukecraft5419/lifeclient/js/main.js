@@ -10,7 +10,6 @@ function createWindow() {
     resizable: false,
     autoHideMenuBar: true,
     icon: path.join(__dirname, "../icons/icon32x32.png"),
-    titlebarStyle: "hidden",
     webPreferences: {
       preload: path.join(__dirname, "./preload.js"),
     },
