@@ -17,9 +17,8 @@
   "author": "Nukecraft5419",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^22.0.0"
-  },
-  "dependencies": {
-    "bulma": "^0.9.4"
+    "bulma": "^0.9.4",
+    "electron": "^22.0.0",
+    "node-sass": "^8.0.0"
   }
 }
